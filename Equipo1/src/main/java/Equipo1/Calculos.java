@@ -11,12 +11,6 @@ public class Calculos {
 		return x-y;
 	}
 	
-	/*
-	public float cuadrado(int a) {
-		
-		return (float) Math.sqrt(a);
-	}*/
-	
 	
 	public int multiplicar(int num1, int num2) {
 		
