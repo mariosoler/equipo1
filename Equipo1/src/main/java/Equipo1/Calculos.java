@@ -7,6 +7,10 @@ public class Calculos {
 		
 	}
 	
+	public resta(int x,int y) {
+		return x-y;
+	}
+	
 	/*
 	public float cuadrado(int a) {
 		
